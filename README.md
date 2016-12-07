@@ -1,6 +1,6 @@
-# CHECK
+# check
 
-things to check,... found on the web.
+things to ✅, found on the 🌐.
 
 - [Elm](elm.md)
 - [Observables](observables.md)
